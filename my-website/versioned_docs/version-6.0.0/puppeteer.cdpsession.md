@@ -9,7 +9,7 @@ The `CDPSession` instances are used to talk raw Chrome Devtools Protocol.
 <b>Signature:</b>
 
 ```typescript
-export declare class CDPSession extends EventEmitter 
+export declare class CDPSession extends EventEmitter
 ```
 <b>Extends:</b> [EventEmitter](./puppeteer.eventemitter.md)
 
@@ -40,7 +40,5 @@ await client.send('Animation.setPlaybackRate', {
 
 |  Method | Modifiers | Description |
 |  --- | --- | --- |
-|  [connection()](./puppeteer.cdpsession.connection.md) |  |  |
 |  [detach()](./puppeteer.cdpsession.detach.md) |  | Detaches the cdpSession from the target. Once detached, the cdpSession object won't emit any events and can't be used to send messages. |
 |  [send(method, paramArgs)](./puppeteer.cdpsession.send.md) |  |  |
-

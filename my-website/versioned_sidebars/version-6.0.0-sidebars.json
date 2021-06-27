@@ -672,10 +672,6 @@
         },
         {
           "type": "doc",
-          "id": "version-6.0.0/puppeteer.cdpsession.connection"
-        },
-        {
-          "type": "doc",
           "id": "version-6.0.0/puppeteer.cdpsession.detach"
         },
         {
