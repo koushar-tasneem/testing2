@@ -36,10 +36,6 @@
             },
             {
               "type": "doc",
-              "id": "version-5.4.0/puppeteer.puppeteer.networkconditions"
-            },
-            {
-              "type": "doc",
               "id": "version-5.4.0/puppeteer.puppeteer.registercustomqueryhandler"
             },
             {
