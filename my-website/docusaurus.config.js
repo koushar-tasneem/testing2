@@ -24,7 +24,9 @@ module.exports = {
                 label: "API",
                 position: "left",
             },
-
+            {
+              type: 'docsVersionDropdown',
+            },
             {
                 to: "docs/CONTRIBUTING",
                 //activeBasePath: "docs",

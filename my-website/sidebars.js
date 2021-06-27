@@ -198,8 +198,5 @@ module.exports = {
         'puppeteer.eventemitter.removelistener',
         'puppeteer.eventemitter.removealllisteners',
         ],
-        "Contribute": [
-            'CONTRIBUTING',
-        ]
     },
 };
