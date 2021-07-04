@@ -4,7 +4,7 @@
 
 ## Browser class
 
-A Browser is created when Puppeteer connects to a Chromium instance, either through [PuppeteerNode.launch()](./puppeteer.puppeteernode.launch.md) or [Puppeteer.connect()](./puppeteer.puppeteer.connect.md).
+A BROWSER is created when Puppeteer connects to a Chromium instance, either through [PuppeteerNode.launch()](./puppeteer.puppeteernode.launch.md) or [Puppeteer.connect()](./puppeteer.puppeteer.connect.md).
 
 <b>Signature:</b>
 
