@@ -9,18 +9,12 @@ At every point of time, page exposes its current frame tree via the [page.mainFr
 <b>Signature:</b>
 
 ```typescript
-export declare class Frame 
+export declare class Frame
 ```
 
 ## Remarks
 
 `Frame` object lifecycles are controlled by three events that are all dispatched on the page object:
-
-- [PageEmittedEvents.FrameAttached](./puppeteer.pageemittedevents.frameattached.md)
-
-- [PageEmittedEvents.FrameNavigated](./puppeteer.pageemittedevents.framenavigated.md)
-
-- [PageEmittedEvents.FrameDetached](./puppeteer.pageemittedevents.framedetached.md)
 
 The constructor for this class is marked as internal. Third-party code should not call the constructor directly or create subclasses that extend the `Frame` class.
 
@@ -94,4 +88,3 @@ console.log(text);
 |  [waitForSelector(selector, options)](./puppeteer.frame.waitforselector.md) |  |  |
 |  [waitForTimeout(milliseconds)](./puppeteer.frame.waitfortimeout.md) |  | Causes your script to wait for the given number of milliseconds. |
 |  [waitForXPath(xpath, options)](./puppeteer.frame.waitforxpath.md) |  |  |
-

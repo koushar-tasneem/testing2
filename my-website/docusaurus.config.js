@@ -18,6 +18,7 @@ module.exports = {
                 alt: "Realtime Apps Logo",
                 src: "img/pptr.png",
             },
+            hideOnScroll: true,
             items: [{
                 to: "docs/puppeteer.puppeteer",
                 // activeBasePath: "docs",
@@ -55,7 +56,6 @@ module.exports = {
         },
         gtag: {
             trackingID: "G-WT3D2HSL72",
-            // Optional fields.
             anonymizeIP: false, // Should IPs be anonymized?
         },
     },
