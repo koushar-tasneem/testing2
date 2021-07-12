@@ -4,9 +4,6 @@ on:
   push:
     tags:
       - '*'
-    paths-ignore:
-      - 'my-website/**'
-
 jobs:
   publish:
     runs-on: ubuntu-latest
