@@ -3,7 +3,7 @@ lib/
 third_party/
 vendor/
 my-website/
-
+utils/remove.js
 package-lock.json
 yarn.lock
 package.json
