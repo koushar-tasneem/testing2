@@ -5,7 +5,7 @@ on:
     tags:
       - '*'
     paths-ignore:
-      - 'my-website'
+      - 'my-website/**'
 
 jobs:
   publish:
