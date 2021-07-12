@@ -1,6 +1,6 @@
 module.exports = {
     title: "Introduction to Puppeteer",
-    tagline: "Puppeteer made it easy",
+    tagline: "Puppeteer made easy",
     url: "https://realtime-apps-iap.github.io",
     baseUrl: "/",
     onBrokenLinks: "throw",
