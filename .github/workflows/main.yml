@@ -5,12 +5,12 @@ on:
     branches:
       - main
     paths-ignore:
-      - 'webiste'
+      - 'my-website'
   pull_request:
     branches:
       - main
     paths-ignore:
-      - 'website'
+      - 'my-website'
   
 
 jobs:
