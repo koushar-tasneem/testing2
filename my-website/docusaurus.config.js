@@ -1,6 +1,6 @@
 module.exports = {
     title: "Introduction to Puppeteer",
-    tagline: "Puppeteer made it easy",
+    tagline: "Puppeteer made easy",
     url: "https://realtime-apps-iap.github.io",
     baseUrl: "/",
     onBrokenLinks: "throw",
@@ -22,7 +22,7 @@ module.exports = {
             items: [{
                 to: "docs/puppeteer.puppeteer",
                 // activeBasePath: "docs",
-                label: "API",
+                label: "AP",
                 position: "left",
             },
             {
@@ -38,7 +38,7 @@ module.exports = {
 
 
             {
-                label: "Gith",
+                label: "Github",
                 href: "https://github.com/puppeteer/puppeteer",
                 position: "right",
             },
